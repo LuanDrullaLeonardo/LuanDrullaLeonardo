@@ -181,8 +181,6 @@ Interessado em discutir padrões de desenvolvimento empresarial, arquitetura Rea
 
 - LinkedIn: [Luan Drulla](https://www.linkedin.com/in/luan-drulla-822a24189/)
 - Email: serighelli003@gmail.com
-- GitHub: [@Xdrulla](https://github.com/Xdrulla)
+- GitHub: [@LuanDrulla](https://github.com/LuanDrullaLeonardo)
 
 ---
-
-*Última atualização: 15 de Outubro, 2025*  
